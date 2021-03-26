@@ -1,0 +1,6 @@
+/* pagea/home/home.wxss */
+.title{
+  color: red;
+  font-size:30rpx;
+  /* px和rpx大小不一样 */
+} 
